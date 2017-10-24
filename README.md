@@ -18,23 +18,24 @@ Pré-requisitos:
 - Desenvolver os recursos em API Rest;
 - Se for persistir os dados em banco de dados, utilizar o MySql.
 
-O que esperamos como escopo mínimo:
-* Adicionar Despesa e Receita;
+#### O que esperamos como escopo mínimo:
+* Manter Despesa e Receita;
 * Histórico de movimentações;
 * Consultar saldo atual;
 * Transferir crédito entre contas; 
 
-O que vamos avaliar:
-Seu código; 
-Desempenho;
-Organização;
-Inovação;
-Boas práticas será um diferencial. 
+#### O que vamos avaliar:
+* Seu código;
+* Desempenho;
+* Organização;
+* Inovação;
+
+Boas práticas será um diferencial.
 
 ### Instruções 
-1. Faça o fork do desafio e crie uma branch xxxxx;
-2. Desenvolva. Você terá 2 (dois) dias a partir da data do envio do desafio; 
-3.Após concluir seu trabalho faça um push; 
-4.Crie um arquivo de texto com a nomenclatura SEUNOME.CDT com a explicação de como devemos executar o projeto e com uma descrição do que foi feito; 
+1. Faça o fork do desafio e crie uma branch <seu-nome-cdt>;
+2. Desenvolva. Você terá 2 (dois) dias a partir da data do envio do desafio;
+3.Após concluir seu trabalho faça um push;
+4.Crie um arquivo de texto com a nomenclatura CONFIG.MD com a explicação de como devemos executar o projeto e com uma descrição do que foi feito; 
 5. Solicite o Merge request para o repositório original e que a força esteja com você;
 6. Você ganhará pontos extras se utilizar .NET ou Java. 
