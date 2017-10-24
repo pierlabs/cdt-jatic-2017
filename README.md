@@ -1,1 +1,40 @@
-# cdt-jatic-2017
+# CDT & JATIC/2017
+
+
+## Desafio Conductor de Seleção 
+
+Olá, queremos convidá-lo a participar de nosso desafio de seleção.  Pronto para participar? Seu trabalho será visto por nosso time e você receberá ao final um feedback sobre o que achamos do seu trabalho. Não é legal? 
+
+Sobre a oportunidade: 
+Temos diversas oportunidades na Conductor, com esse desafio você concorrerá para a que mais se encaixar em seu perfil. Temos vagas com diversos níveis de senioridade e para cada uma delas utilizaremos critérios específicos considerando esse aspecto, combinado? Envie seu currículo para Hannah.silva@conductor.com.br com o título DESAFIO CONDUCTOR&FACISA. 
+
+Se você for aprovado nesta etapa, será convidado para uma entrevista final com nosso time técnico e de gestão de pessoas. 
+
+
+### O Desafio
+
+Desenvolver um sistema de gerenciamento de despesas, para manter controle entre gastos e receita:
+Pré-requisitos:
+- Desenvolver os recursos em API Rest;
+- Se for persistir os dados em banco de dados, utilizar o MySql.
+
+O que esperamos como escopo mínimo:
+* Adicionar Despesa e Receita;
+* Histórico de movimentações;
+* Consultar saldo atual;
+* Transferir crédito entre contas; 
+
+O que vamos avaliar:
+Seu código; 
+Desempenho;
+Organização;
+Inovação;
+Boas práticas será um diferencial. 
+
+### Instruções 
+1. Faça o fork do desafio e crie uma branch xxxxx;
+2. Desenvolva. Você terá 2 (dois) dias a partir da data do envio do desafio; 
+3.Após concluir seu trabalho faça um push; 
+4.Crie um arquivo de texto com a nomenclatura SEUNOME.CDT com a explicação de como devemos executar o projeto e com uma descrição do que foi feito; 
+5. Solicite o Merge request para o repositório original e que a força esteja com você;
+6. Você ganhará pontos extras se utilizar .NET ou Java. 
